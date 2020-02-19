@@ -1,2 +1,4 @@
-# tracking_course
-Code for the tracking course available at https://jeremycohen.podia.com/tracking-obstacles-using-computer-vision 
+# Hungarian Algorithm
+![alt](context.png)
+
+The goal is to match the obstacles and to detect new detections and trackings
