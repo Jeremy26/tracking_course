@@ -14,8 +14,8 @@ All the code will be developed in Python 3
 You will need to choose a YOLO configuration, here are the links for 416x416
 
 For 416x416
-* https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
-* https://pjreddie.com/media/files/yolov3.weights
+* CONFIGURATION: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+* WEIGHTS (pretrained): https://pjreddie.com/media/files/yolov3.weights
 
 For other size, simply download by clicking the other links on the YOLO page
 https://pjreddie.com/darknet/yolo/
